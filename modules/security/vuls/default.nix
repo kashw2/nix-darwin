@@ -5,6 +5,8 @@
   ...
 }:
 
+with lib;
+
 let
   cfg = config.services.vuls;
 in
