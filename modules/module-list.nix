@@ -8,6 +8,7 @@
   ./misc/lib.nix
   ./security/pam.nix
   ./security/pki
+  ./security/vuls
   ./security/sandbox
   ./security/sudo.nix
   ./system
